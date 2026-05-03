@@ -38,3 +38,4 @@ print(f"Subtotal: ${subtotal:.2f}")
 print(f"Venue fee: ${venue_fee:.2f}")
 print(f"Estimated total cost: ${total_cost:.2f}")
 print(f"Effective cost per attendee: ${effective_cost:.2f}")
+
