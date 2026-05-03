@@ -36,3 +36,4 @@ print(f"{restaurant_name} | ${bill_amount:.2f} bill | {tip_percent}% tip | {num_
 print(f"Tip: ${tip_amount:.2f}")
 print(f"Total with tip: ${total_with_tip:.2f}")
 print(f"Each person pays: ${per_person:.2f}")
+
